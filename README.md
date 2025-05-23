@@ -3,7 +3,7 @@
 Welcome to the **Java Learning Programs** repository!  
 This repository contains well-structured and easy-to-understand Java programs designed for **beginners to intermediate** learners.
 
-## 📚 Topics Covered
+## 📚 Topics Learning
 
 - ✅ Basic Syntax and Structure
 - ✅ Data Types and Variables
