@@ -1,14 +1,12 @@
 package Ex02_JavaBasicsPart2;
 
-public class Lab014_Multiple_main_method_allowed_in_this_way {
+public class Lab023_Byte {
     public static void main(String[] args) {
-
+        byte age = 10;
     }
-
     public static void main(int args) {
-
+        byte age = 11;
     }
 }
 
 
-// This brings us on Method Overloading Concept
